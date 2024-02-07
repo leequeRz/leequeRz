@@ -7,7 +7,7 @@ Junior Student
 I'm interest about frond-end developer. In the future, I want to be a Full-Stack Developer. Now I'm looking for the internship-student.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning React.js and tailwind.css
+* 🧠  I'm learning React.js and Next.js
 
 <a href="https://www.github.com/leequeRz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leequeRz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
